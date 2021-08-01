@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Gasolina",
+        "price": 4.29
+    },
+    {
+        "name": "Etanol",
+        "price": 2.99
+    },
+    {
+        "name": "Diesel",
+        "price": 2.09
+    }
+]
