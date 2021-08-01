@@ -14,4 +14,7 @@ $ php artisan key:generate
 
 # run migration and seeders
 $ php artisan migrate:fresh --seed
+
+# start server
+$ php artisan serve
 ```
