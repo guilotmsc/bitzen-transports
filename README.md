@@ -18,3 +18,9 @@ $ php artisan migrate:fresh --seed
 # start server
 $ php artisan serve
 ```
+
+## Database:
+```bash
+    Entity Relationship Diagram (ERD)
+    ├── database/diagrams/
+```    
